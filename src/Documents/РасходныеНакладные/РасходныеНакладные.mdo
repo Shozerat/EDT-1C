@@ -23,6 +23,7 @@
     <key>ru</key>
     <value>Расходная накладная</value>
   </objectPresentation>
+  <dataHistory>Use</dataHistory>
   <numberType>String</numberType>
   <numberLength>9</numberLength>
   <numberAllowedLength>Variable</numberAllowedLength>

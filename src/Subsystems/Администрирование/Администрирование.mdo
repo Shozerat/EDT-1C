@@ -8,4 +8,5 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.Пользователи</content>
+  <content>CommonForm.ПерсональныеНастройкиПользователя</content>
 </mdclass:Subsystem>

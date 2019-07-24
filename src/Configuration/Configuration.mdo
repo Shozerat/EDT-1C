@@ -21,7 +21,6 @@
   <splash/>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
-  <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
   <compatibilityMode>8.3.14</compatibilityMode>
   <languages uuid="69b3c372-3e61-4903-979b-ef2c8e3d3c98">
@@ -39,7 +38,12 @@
   <commonPictures>CommonPicture.КартинкаПоставки</commonPictures>
   <commonPictures>CommonPicture.КартинкаЗаказы</commonPictures>
   <roles>Role.Администратор</roles>
+  <roles>Role.РаботаСТорговымФункционаломЧтение</roles>
+  <roles>Role.ТонкийКлиент</roles>
+  <roles>Role.ПерсональныеНастройкиПользователя</roles>
+  <roles>Role.РаботаСТорговымФункционаломЗапись</roles>
   <definedTypes>DefinedType.ДенежныеСредства</definedTypes>
+  <commonForms>CommonForm.ПерсональныеНастройкиПользователя</commonForms>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Поставщики</catalogs>
   <catalogs>Catalog.Договоры</catalogs>

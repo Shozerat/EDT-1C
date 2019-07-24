@@ -22,6 +22,7 @@
     <key>ru</key>
     <value>Заказ клиента</value>
   </objectPresentation>
+  <dataHistory>Use</dataHistory>
   <numberType>String</numberType>
   <numberLength>9</numberLength>
   <numberAllowedLength>Variable</numberAllowedLength>
