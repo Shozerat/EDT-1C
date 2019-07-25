@@ -9,4 +9,5 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.Пользователи</content>
   <content>CommonForm.ПерсональныеНастройкиПользователя</content>
+  <content>EventSubscription.ПодпискаНаСобытие</content>
 </mdclass:Subsystem>

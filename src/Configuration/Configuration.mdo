@@ -42,6 +42,8 @@
   <roles>Role.ТонкийКлиент</roles>
   <roles>Role.ПерсональныеНастройкиПользователя</roles>
   <roles>Role.РаботаСТорговымФункционаломЗапись</roles>
+  <commonModules>CommonModule.МодульПодписокНаСобытия</commonModules>
+  <eventSubscriptions>EventSubscription.ПодпискаНаСобытие</eventSubscriptions>
   <definedTypes>DefinedType.ДенежныеСредства</definedTypes>
   <commonForms>CommonForm.ПерсональныеНастройкиПользователя</commonForms>
   <catalogs>Catalog.Номенклатура</catalogs>
